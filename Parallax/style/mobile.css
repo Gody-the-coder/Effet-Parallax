@@ -1,0 +1,23 @@
+
+
+.parallax-1 .overlay h1,
+.parallax-5 .overlay h1{
+    font-size: 1rem;
+    background: rgba(27, 27, 27, 0.6);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.parallax-2 .overlay h1,
+.parallax-3 .overlay h1,
+.parallax-4 .overlay h1{
+    font-size: 1rem;
+    background: rgba(37, 182, 192, 0.6);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.overlay h1{
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+}
